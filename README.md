@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-✨ No mundo da programação desde 2022  <br>📚 Atualmente estou aprendendo Java & Spring Boot no Back-End e TypeScript & Angular no Front-End  <br>🎓 Estudante de Análise e Desenvolvimento de Sistemas na [FATEC Santana de Parnaíba](https://www.linkedin.com/school/fatec-santana-de-parna%C3%ADba/)
+✨ No mundo da programação desde 2022  <br>📚 Atualmente estou aprendendo Java & Spring Boot no Back-End e TypeScript & Angular no Front-End  <br> 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Santana de Parnaíba
 
 ## 🌐 Onde me encontrar:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhendon.soares12@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhendon-soares/)
